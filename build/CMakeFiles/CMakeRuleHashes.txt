@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+377c36416e1520f6dd7e3fbfd75a57b0 /home/wrobotics/Desktop/Kivy Example/devel/share/roseus/ros/kivy_ros_example/manifest.l
+3fa78619f72e581e4c492a310d4dbb62 CMakeFiles/clean_test_results
+e7a8d915f611302b61c3739468cab328 kivy_ros_example/CMakeFiles/kivy_ros_example_generate_messages_eus

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<launch>
+ 
+    <node pkg="kivy_ros_example" type="timer_node.py" name="timer_node"  output="screen"/>
+ 
+    <node pkg="kivy_ros_example" type = "timer_gui_node.py" name="timer_gui_node" output="screen"/>
+
+</launch>

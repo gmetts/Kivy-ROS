@@ -1,0 +1,8 @@
+prefix=/home/wrobotics/Desktop/Kivy Example/devel
+
+Name: kivy_ros_example
+Description: Description of kivy_ros_example
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy geometry_msgs rospy message_runtime

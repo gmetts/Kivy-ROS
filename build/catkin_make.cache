@@ -1,0 +1,2 @@
+kivy_ros_example
+-DCATKIN_DEVEL_PREFIX=/home/wrobotics/Desktop/Kivy Example/devel -DCMAKE_INSTALL_PREFIX=/home/wrobotics/Desktop/Kivy Example/install -G Unix Makefiles

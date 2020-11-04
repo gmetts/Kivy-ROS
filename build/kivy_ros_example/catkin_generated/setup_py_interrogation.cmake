@@ -1,0 +1,7 @@
+set(kivy_ros_example_SETUP_PY_SETUP_MODULE "distutils.core")
+set(kivy_ros_example_SETUP_PY_VERSION "0.0.0")
+set(kivy_ros_example_SETUP_PY_SCRIPTS "")
+set(kivy_ros_example_SETUP_PY_PACKAGES "keyboard_gui;timer_gui")
+set(kivy_ros_example_SETUP_PY_PACKAGE_DIRS "src/keyboard_gui;src/timer_gui")
+set(kivy_ros_example_SETUP_PY_MODULES "")
+set(kivy_ros_example_SETUP_PY_MODULE_DIRS "")

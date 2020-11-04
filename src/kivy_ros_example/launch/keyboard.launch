@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<launch>
+ 
+    <node pkg="teleop_twist_keyboard" type="teleop_twist_keyboard.py" name="teleop_twist_keyboard"  output="screen" launch-prefix="gnome-terminal --geometry 73x31+0+1500 -e"/>
+ 
+    <node pkg="kivy_ros_example" type = "keyboard_node.py" name="keyboard_node" output="screen"/>
+
+</launch>
